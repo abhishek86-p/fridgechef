@@ -17,9 +17,6 @@
 - JavaScript (Vanilla)
 - Spoonacular API
 
-## 📸 Screenshots
-
-(Add some screenshots of your website here – optional but recommended)
 
 ## 🛠️ How to Run Locally
 
